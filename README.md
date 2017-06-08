@@ -7,11 +7,9 @@ pip install -r requirements.txt
 `
 
 ## Automatically create requirements.txt [Link](http://stackoverflow.com/questions/31684375)
-```
-pip install pipreqs
 
-pipreqs /path/to/project
-```
+`pip install -r requirements.txt` (Python 3)
+
 
 ## Reference
 - [Master machine learning](http://machinelearningmastery.com)
