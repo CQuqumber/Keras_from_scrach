@@ -1,8 +1,10 @@
 # Keras 從零開始, Tutorial
 
-[![Build Status]()]()
 
-This is work in progress now.
+## Install requiements
+`
+pip install -r requirements.txt
+`
 
 ## Reference
 - [Master machine learning](http://machinelearningmastery.com)
